@@ -8,5 +8,13 @@
   "bugs": {
     "url": "https://github.com/mayb-hbwsl/practice-git-branching/issues"
   },
-  "homepage": "https://github.com/mayb-hbwsl/practice-git-branching#readme"
+  "homepage": "https://github.com/mayb-hbwsl/practice-git-branching#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayb-hbwsl/practice-git-branching.git"
+  }
 }
+
