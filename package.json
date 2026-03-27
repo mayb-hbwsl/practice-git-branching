@@ -9,13 +9,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mayb-hbwsl/practice-git-branching.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/mayb-hbwsl/practice-git-branching/issues"
-  },
-  "homepage": "https://github.com/mayb-hbwsl/practice-git-branching#readme"
+  }
 }
+
